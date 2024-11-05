@@ -126,7 +126,7 @@ body {
   position: relative;
   width: 100%;
   height: 400px;
-  background-image: url('/img/banner.jpg'); /* Imagem de fundo estática */
+  background-image: url(../img/banner.jpg); /* Imagem de fundo estática */
   background-size: cover;
   background-position: center;
   box-shadow: 0 4px 15px rgba(138, 43, 226, 0.4); /* Sombra ao redor do banner */
