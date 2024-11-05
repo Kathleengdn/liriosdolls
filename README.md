@@ -1,2 +1,2 @@
-# liriosdolls
-Projeto para aprensentação na AFESU VELEIROS
+# Lirios-Dolls
+Projeto Maker
